@@ -1,0 +1,12 @@
+streamlit
+langchain
+google-generativeai
+sentence-transformers
+chromadb
+pypdf
+python-dotenv
+langchain-text-splitters
+scikit-learn
+bertopic
+nltk
+fpdf2
